@@ -1,0 +1,7 @@
+streamlit
+openai>=1.0.0
+llama-index
+llama-index-llms-openai
+nltk
+pypdf
+python-dotenv
